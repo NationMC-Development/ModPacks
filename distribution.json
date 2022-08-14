@@ -28,7 +28,7 @@
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "size": 7390346,
+            "size": 6784700 ,
             "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.1-42.0.9/forge-1.19.1-42.0.9-installer.jar"
           },
           "subModules": []
@@ -38,8 +38,8 @@
           "name": "OptiFine ",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7502,
-            "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.19.1_HD_U_H9_pre1.jar&x=db3ff14d985de554deaa68a3dfaedd08"
+            "size": 6857820,
+            "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.19.1_HD_U_H9_pre1.jar&x=35c660cf835dd3110afa7b50d0762d0c"
           },
           "required": {
             "value": false,
