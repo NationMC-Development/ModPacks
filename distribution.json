@@ -4,21 +4,21 @@
   "discord": {
     "clientId": "784714976329596938",
     "smallImageText": "ぽてとランチャー",
-    "smallImageKey": "pack_numa"
+    "smallImageKey": "pack_pote"
   },
   "servers": [
     {
-      "id": "Minecraft-1.16.5",
-      "name": "バニラ1.16.5 (Minecraft 1.16.5)",
-      "description": "1.16.5 + 便利なModが導入されたおすすめのパックです。",
+      "id": "Minecraft-1.19.0",
+      "name": "バニラ1.19 (Minecraft 1.19.0)",
+      "description": "1.19.0 + 便利なModが導入されたおすすめのパックです。",
       "icon": "https://raw.githubusercontent.com/TeamKun/ModPacks/deploy/servers/Minecraft-1.16.5/pack.png",
       "version": "1.0.1",
       "address": "",
-      "minecraftVersion": "1.16.5",
+      "minecraftVersion": "1.19.0",
       "discord": {
         "shortId": "Minecraft",
         "largeImageText": "Minecraft",
-        "largeImageKey": "pack_numa"
+        "largeImageKey": "pack_pote"
       },
       "mainServer": false,
       "autoconnect": false,
