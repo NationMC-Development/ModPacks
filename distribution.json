@@ -11,7 +11,7 @@
       "id": "potetocraft",
       "name": "ポテトクラフトMOD (Minecraft 1.16.5)",
       "description": "ポテトクラフトのMOD",
-      "icon": "https://github.com/NationMC-Development/ModPacks/blob/master/assets/Vanilla.png?raw=true",
+      "icon": "https://raw.githubusercontent.com/NationMC-Development/ModPacks/master/assets/Vanilla.png",
       "version": "1.0.0",
       "address": "",
       "minecraftVersion": "1.16.5",
