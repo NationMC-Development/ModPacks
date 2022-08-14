@@ -44,7 +44,7 @@
             "MD5": "94f8da4a013d24746a9f9bac2aeed404"
           },
           "required": {
-            "value": false
+            "value": true
           }
         }
       ]
