@@ -11,7 +11,7 @@
       "id": "Minecraft-1.19.0",
       "name": "バニラ1.19 (Minecraft 1.19.0)",
       "description": "1.19.0 + 便利なModが導入されたおすすめのパックです。",
-      "icon": "https://raw.githubusercontent.com/TeamKun/ModPacks/deploy/servers/Minecraft-1.16.5/pack.png",
+      "icon": "https://github.com/NationMC-Development/ModPacks/blob/master/assets/Vanilla.png",
       "version": "1.0.1",
       "address": "",
       "minecraftVersion": "1.19.0",
@@ -30,7 +30,7 @@
           "artifact": {
             "size": 7390346,
             "MD5": "6298276cc9396bb1b2d8526b1ee0e8c5",
-            "url": "https://raw.githubusercontent.com/TeamKun/ModPacks/deploy/repo/lib/net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20-installer.jar"
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19-41.1.0/forge-1.19-41.1.0-installer.jar"
           },
           "subModules": []
         },
