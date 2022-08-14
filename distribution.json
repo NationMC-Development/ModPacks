@@ -32,18 +32,18 @@
             "size": 7390346 ,
             "url": "https://github.com/NationMC-Development/ModPacks/blob/master/repo/lib/net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20-installer.jar?raw=true"
           },
-          "subModules": [
-            {
-              "id": "net.teamfruit:emojicord:1.1.1.39@jar",
-              "name": "Emojicord",
-              "type": "ForgeMod",
-              "artifact": {
-                "size": 311605,
-                "url": "https://raw.githubusercontent.com/TeamKun/ModPacks/deploy/servers/Vehicle-1.15.2/forgemods/optionalon/Emojicord-1.15.2-1.1.1.39-universal.jar",
-                "MD5": "94f8da4a013d24746a9f9bac2aeed404"
-              }
-            }
-          ]
+          "subModules": []
+        },
+        {
+          "id": "net.teamfruit:emojicord:1.1.1.39@jar",
+          "name": "Emojicord",
+          "type": "ForgeMod",
+          "required": "Required",
+          "artifact": {
+            "size": 311605,
+            "url": "https://raw.githubusercontent.com/TeamKun/ModPacks/deploy/servers/Vehicle-1.15.2/forgemods/optionalon/Emojicord-1.15.2-1.1.1.39-universal.jar",
+            "MD5": "94f8da4a013d24746a9f9bac2aeed404"
+          }
         }
       ]
     },
