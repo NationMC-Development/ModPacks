@@ -8,13 +8,13 @@
   },
   "servers": [
     {
-      "id": "Minecraft-1.19.1",
-      "name": "バニラ1.19.1 (Minecraft 1.19.1)",
+      "id": "potetocraft",
+      "name": "ポテトクラフトMOD (Minecraft 1.16.5)",
       "description": "1.19.1 + 便利なModが導入されたおすすめのパックです。",
       "icon": "https://github.com/NationMC-Development/ModPacks/blob/master/assets/Vanilla.png",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "address": "",
-      "minecraftVersion": "1.19.1",
+      "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "Minecraft",
         "largeImageText": "Minecraft",
@@ -24,13 +24,13 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": " net.minecraftforge:forge:1.19.1-42.0.9:installer",
+          "id": " net.minecraftforge:forge:1.16.5-36.2.20:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
-            "MD5": "761f378b7fc7a2996b181b6a451c1cd6",
-            "size": 6784700 ,
-            "url": "https://github.com/NationMC-Development/ModPacks/blob/master/repo/lib/net/minecraftforge/forge/1.19.1/forge-1.19.1-42.0.9-installer.jar?raw=true"
+            "MD5": "6298276cc9396bb1b2d8526b1ee0e8c5",
+            "size": 7390346 ,
+            "url": "https://github.com/NationMC-Development/ModPacks/blob/master/repo/lib/net/minecraftforge/forge/1.16.5-36.2.20/forge-1.16.5-36.2.20-installer.jar?raw=true"
           },
           "subModules": []
         }
