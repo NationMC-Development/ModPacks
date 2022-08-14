@@ -28,6 +28,7 @@
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
+            "MD5": "761f378b7fc7a2996b181b6a451c1cd6",
             "size": 6784700 ,
             "url": "https://github.com/NationMC-Development/ModPacks/blob/master/repo/lib/net/minecraftforge/forge/1.19.1/forge-1.19.1-42.0.9-installer.jar?raw=true"
           },
