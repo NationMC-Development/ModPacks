@@ -24,12 +24,12 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "forge-1.19.1-42.0.9-installer.jar",
+          "id": " net.minecraftforge:forge:1.19.1-42.0.9:installer",
           "name": "Minecraft Forge (installer)",
           "type": "Forge",
           "artifact": {
             "size": 6784700 ,
-            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19.1-42.0.9/forge-1.19.1-42.0.9-installer.jar"
+            "url": "https://drive.google.com/u/0/uc?id=1lWpPrX_eKQd1P4KjraJfULtqXPgMRBkv&export=download"
           },
           "subModules": []
         },
@@ -39,7 +39,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6857820,
-            "url": "https://optifine.net/downloadx?f=preview_OptiFine_1.19.1_HD_U_H9_pre1.jar&x=35c660cf835dd3110afa7b50d0762d0c"
+            "url": "https://drive.google.com/u/0/uc?id=1Y6tcGRCTMsedM0H4wgx839rdS8AxzTfQ&export=download"
           },
           "required": {
             "value": false,
@@ -318,61 +318,6 @@
             "size": 46420,
             "url": "https://raw.githubusercontent.com/TeamKun/ModPacks/deploy/servers/Minecraft-1.12.2/forgemods/optionalon/oauth-1.06.1-1.12.jar",
             "MD5": "dc090e808568920a924433c90af5c361"
-          },
-          "required": {
-            "value": false
-          }
-        }
-      ]
-    },
-    {
-      "id": "Minecraft-1.15.2",
-      "name": "バニラ1.15.2 (Minecraft 1.15.2)",
-      "description": "1.15.2 + 便利なModが導入されたおすすめのパックです。",
-      "icon": "https://raw.githubusercontent.com/TeamKun/ModPacks/deploy/servers/Minecraft-1.15.2/pack.png",
-      "version": "1.0.0",
-      "address": "",
-      "minecraftVersion": "1.15.2",
-      "discord": {
-        "shortId": "Minecraft",
-        "largeImageText": "Minecraft",
-        "largeImageKey": "pack_numa"
-      },
-      "mainServer": false,
-      "autoconnect": false,
-      "modules": [
-        {
-          "id": "net.minecraftforge:forge:1.15.2-31.2.57:installer",
-          "name": "Minecraft Forge (installer)",
-          "type": "Forge",
-          "artifact": {
-            "size": 6619925,
-            "MD5": "a651a604d6a9d31e997ec60e91c33826",
-            "url": "https://raw.githubusercontent.com/TeamKun/ModPacks/deploy/repo/lib/net/minecraftforge/forge/1.15.2-31.2.57/forge-1.15.2-31.2.57-installer.jar"
-          },
-          "subModules": []
-        },
-        {
-          "id": "technicianlp.reauth:reauth:3.8.1@jar",
-          "name": "ReAuth",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 35214,
-            "url": "https://raw.githubusercontent.com/TeamKun/ModPacks/deploy/servers/Minecraft-1.15.2/forgemods/optionalon/ReAuth-1.14-1.15-3.8.1.jar",
-            "MD5": "7a2655c439bb612f744afbe1bb3e56f7"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "net.kunmc.lab:vplayer:1.1-SNAPSHOT@jar",
-          "name": "VideoPlayer",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 37609339,
-            "url": "https://raw.githubusercontent.com/TeamKun/ModPacks/deploy/servers/Minecraft-1.15.2/forgemods/optionalon/vplayer-1.1-SNAPSHOT-all.jar",
-            "MD5": "5de63bef9b389fa04882fa00e92d54da"
           },
           "required": {
             "value": false
