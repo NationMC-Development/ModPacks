@@ -38,7 +38,6 @@
           "id": "net.teamfruit:emojicord:1.1.1.39@jar",
           "name": "Emojicord",
           "type": "ForgeMod",
-          "required": "Required",
           "artifact": {
             "size": 311605,
             "url": "https://raw.githubusercontent.com/TeamKun/ModPacks/deploy/servers/Vehicle-1.15.2/forgemods/optionalon/Emojicord-1.15.2-1.1.1.39-universal.jar",
@@ -51,7 +50,7 @@
       "id": "Minecraft-1.12.2",
       "name": "バニラ1.12.2 (Minecraft 1.12.2)",
       "description": "1.12.2 + 便利なModが導入されたおすすめのパックです。",
-      "icon": "https://raw.githubusercontent.com/TeamKun/ModPacks/deploy/servers/Minecraft-1.12.2/pack.png",
+      "icon": "https://raw.githubusercontent.com/TeamKun/ModPacks/master/assets/1.12.2Pack.png",
       "version": "1.0.0",
       "address": "",
       "minecraftVersion": "1.12.2",
