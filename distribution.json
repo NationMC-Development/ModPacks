@@ -283,49 +283,6 @@
           }
         }
       ]
-    },
-    {
-      "id": "Minecraft-1.19.0",
-      "name": "バニラ1.19 (Minecraft 1.19.0)",
-      "description": "1.19.0 + 便利なModが導入されたおすすめのパックです。",
-      "icon": "https://github.com/NationMC-Development/ModPacks/blob/master/assets/Vanilla.png",
-      "version": "1.0.1",
-      "address": "",
-      "minecraftVersion": "1.19.0",
-      "discord": {
-        "shortId": "Minecraft",
-        "largeImageText": "Minecraft",
-        "largeImageKey": "pack_pote"
-      },
-      "mainServer": false,
-      "autoconnect": false,
-      "modules": [
-        {
-          "id": "forge-1.19-41.1.0-installer.jar",
-          "name": "Minecraft Forge (installer)",
-          "type": "Forge",
-          "artifact": {
-            "size": 7390346,
-            "MD5": "6298276cc9396bb1b2d8526b1ee0e8c5",
-            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.19-41.1.0/forge-1.19-41.1.0-installer.jar"
-          },
-          "subModules": []
-        },
-        {
-          "id": "OptiFine_1.19_HD_U_H9.jar",
-          "name": "OptiFine ",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7502,
-            "url": "https://optifine.net/downloadx?f=OptiFine_1.19_HD_U_H9.jar&x=e31b720eb314a9e438e23c8d31552134",
-            "MD5": "ba3585b7b419920f9271f1feead5b748"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        }
-      ]
     }
   ]
 }
