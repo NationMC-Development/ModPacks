@@ -39,7 +39,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6857820,
-            "url": "https://drive.google.com/u/0/uc?id=1Y6tcGRCTMsedM0H4wgx839rdS8AxzTfQ&export=download"
+            "url": "https://github.com/NationMC-Development/ModPacks/blob/master/repo/lib/net/minecraftforge/forge/1.19.1/preview_OptiFine_1.19.1_HD_U_H9_pre1.jar?raw=true"
           },
           "required": {
             "value": false,
