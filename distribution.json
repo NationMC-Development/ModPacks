@@ -35,7 +35,7 @@
           "subModules": []
         },
         {
-          "id": "net.optifine:1.16.5@jar",
+          "id": "com.optifine:1.16.5@jar",
           "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
