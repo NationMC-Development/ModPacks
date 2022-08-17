@@ -9,8 +9,8 @@
   "servers": [
     {
       "id": "potetocraft",
-      "name": "ポテトクラフトMOD (Minecraft 1.16.5)",
-      "description": "ポテトクラフトのMOD",
+      "name": "ぽてとクラフトMOD (Minecraft 1.16.5)",
+      "description": "ぽてとクラフトのMOD",
       "icon": "https://raw.githubusercontent.com/NationMC-Development/ModPacks/master/assets/Vanilla.png",
       "version": "1.0.0",
       "address": "",
@@ -43,7 +43,17 @@
             "url": "https://github.com/NationMC-Development/ModPacks/blob/master/repo/lib/net/OptiFine/OptiFine_1.16.5_HD_U_G8.jar?raw=true",
             "MD5": "e0717ba6d1674af83036ebc479fc77b4"
           }
-        }
+        },
+        {
+          "id": "mezz:jei:1.16.5-7.7.1.152",
+          "name": "JustEnoughItems",
+          "type": "ForgeMod",
+          "artifact": {
+              "size": 828677,
+              "MD5": "fb5fe43b43be01abc6c24eff29791b52",
+              "url": "https://github.com/NationMC-Development/ModPacks/blob/master/repo/lib/net/MOD/jei-1.16.5-7.7.1.152.jar?raw=true"
+          }
+      }
       ]
     },
     {
